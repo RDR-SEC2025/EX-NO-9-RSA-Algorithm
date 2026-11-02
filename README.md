@@ -77,7 +77,8 @@ int main() {
 
 ## Output:
 <BR>
-<img width="286" height="96" alt="image" src="https://github.com/user-attachments/assets/440e6507-428b-4461-9ca1-d69bdeb0fa26" />
+<img width="476" height="88" alt="image" src="https://github.com/user-attachments/assets/ea67a1c8-10a5-4460-a9e1-84897c111092" />
+
 
 
 
